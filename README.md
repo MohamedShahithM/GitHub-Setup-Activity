@@ -1,6 +1,6 @@
 # GitHub-Setup-Activity
 
-Name: M. Mohamed shahith
+Name: M.Mohamed shahith
 Department: B.E. ECE
 Year: 2nd Year
 
